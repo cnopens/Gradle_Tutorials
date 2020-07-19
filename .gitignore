@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.gradle/
+Gradle_Tutorials.iml
+Gradle_Tutorials.ipr
+Gradle_Tutorials.iws
+Gradle_Tutorials_main.iml
+Gradle_Tutorials_test.iml
+build.gradle
+settings.gradle
+src/
